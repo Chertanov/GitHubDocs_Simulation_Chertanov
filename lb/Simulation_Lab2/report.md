@@ -143,7 +143,7 @@ end
 
 
 
-![Скріншот моделі в процесі симуляції](changed_model_imitaion_UI.png)
+![Скріншот моделі в процесі симуляції](changed_model_imitation_UI.png)
 
 Фінальний код моделі та її інтерфейс доступні за [посиланням](RGW_changed.nlogox).
 <br>
